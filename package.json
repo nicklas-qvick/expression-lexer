@@ -5,8 +5,7 @@
     "description": "A simple but powerful lexer for JavaScript.",
     "keywords":
     [
-        "lexer",
-        "scanner"
+        "lexer"
     ],
     "files":
     [
