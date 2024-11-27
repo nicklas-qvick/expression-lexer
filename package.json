@@ -1,0 +1,43 @@
+{
+    "name": "@nicklas-qvick/expression-lexer",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "A simple but powerful lexer for JavaScript.",
+    "keywords":
+    [
+        "lexer",
+        "scanner"
+    ],
+    "files":
+    [
+        "expression-node.js",
+        "expression-queue.js",
+        "expression-range.js",
+        "expression-state.js",
+        "expression-type.js",
+        "expression.js",
+        "package.json",
+        "license.md",
+        "readme.md"
+    ],
+    "homepage": "https://github.com/nicklas-qvick/expression-lexer",
+    "bugs": "https://github.com/nicklas-qvick/expression-lexer/issues",
+    "license": "ISC",
+    "author": "Nicklas Qvick",
+    "exports":
+    {
+        "./expression-node.js": "./expression-node.js",
+        "./expression-queue.js": "./expression-queue.js",
+        "./expression-range.js": "./expression-range.js",
+        "./expression-state.js": "./expression-state.js",
+        "./expression-type.js": "./expression-type.js",
+        "./expression.js": "./expression.js"
+    },
+    "engines":
+    {
+        "node": ">=13.2.0"
+    },
+    "scripts":
+    {
+    }
+}
