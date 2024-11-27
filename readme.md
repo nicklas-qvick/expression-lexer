@@ -1,6 +1,8 @@
 
 # Expression Lexer
 
+A simple but powerful lexer for JavaScript.
+
 ## Dependencies
 
 - None.
